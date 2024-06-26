@@ -32,3 +32,9 @@ while True:
     else:
         print("Opcion incorrecta")
         break;
+
+
+##PAN CON PATE Y MANTEQUILLA (TOSTADO) 
+
+
+#KJHAGSFJHGASJHF
